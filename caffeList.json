@@ -4,9 +4,9 @@
 	"local" : 
 		[
 			{
-				"name" : "스타벅스"
-				"url" : "http://www.istarbucks.co.kr/menu/drink_list.do"
-				"img" : "starbucks.png"
+				"name" : "스타벅스",
+				"url" : "http://www.istarbucks.co.kr/menu/drink_list.do",
+				"img" : "starbucks.png",
 			},
 			{
 				"name" : "이디야",
