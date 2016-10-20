@@ -1,0 +1,88 @@
+{
+	"fastfoodinfo" : 
+	{
+	"local" : 
+		[
+			{
+				"name" : "맥도날드",
+				"url" : "http://www.mcdonalds.co.kr/www/kor/menu/menu_list.do?cate_cd=100",
+				"img" : "mcdonald.png",
+			},
+			{
+				"name" : "버거킹",
+				"url" : "http://burgerking.co.kr/?slide=1&sid=whopper&tsq=1",
+				"img" : "burgerking.jpeg",
+			},
+			{
+				"name" : "KFC",
+				"url" : "http://www.kfckorea.com/menu/menu_promotion_product.asp?WT.ac=TopMenu1",
+				"img" : "kfc.png",
+			},
+			{
+				"name" : "롯데리아",
+				"url" : "http://www.lotteria.com/menu/Menu_New.asp",
+				"img" : "lotteria.jpeg",
+			},
+			{
+				"name" : "쉑쉑버거",
+				"url" : "http://www.shakeshack.kr/pdf/ss_menu_160718.pdf",
+				"img" : "shakeshack.png",
+			},
+			{
+				"name" : "서브웨이",
+				"url" : "http://subway.co.kr/menu/submain.aspx",
+				"img" : "subway.png",
+			},
+			{
+				"name" : "퀴즈노스",
+				"url" : "http://www.quiznos.co.kr/?sm=m284&categ=1099",
+				"img" : "quiznos.png",
+			},
+			{
+				"name" : "타코벨",
+				"url" : "http://www.tacobellkorea.com/menu/new_menu01.asp",
+				"img" : "tacobell.jpeg",
+			},
+			{
+				"name" : "파파이스",
+				"url" : "http://www.popeyes.co.kr/menu/",
+				"img" : "popeyes.png",
+			},
+			{
+				"name" : "모스버거",
+				"url" : "http://www.moskorea.kr/product/product.php?mode=list&ca_id=10",
+				"img" : "mosburger.png",
+			},
+			{
+				"name" : "맘스터치",
+				"url" : "http://www.momstouch.co.kr/sub/menu/menu_list.html",
+				"img" : "momstouch.jpeg",
+			},
+			{
+				"name" : "도미노피자",
+				"url" : "http://www.dominos.co.kr/menu.do?todo=getNewMenuList",
+				"img" : "dominospizza.jpeg",
+			},
+			{
+				"name" : "미스터피자",
+				"url" : "http://www.mrpizza.co.kr/menu/premium",
+				"img" : "mrpizza.png",
+			},
+			{
+				"name" : "피자헛",
+				"url" : "http://www.pizzahut.co.kr/portfolio/pizza/pizzaList.do?gbn=02",
+				"img" : "pizzahut.jpeg",
+			},
+			{
+				"name" : "파파존스",
+				"url" : "http://www.pji.co.kr/menu/pizza.jsp",
+				"img" : "papajohns.jpeg",
+			},
+			{
+				"name" : "피자알볼로",
+				"url" : "https://pizzaalvolo.co.kr/menu/menu_new.asp",
+				"img" : "pazzaalvolo.jpeg",
+			}
+		]
+	}
+}
