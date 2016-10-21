@@ -1,0 +1,108 @@
+{
+	"chickeninfo" : 
+	{
+	"local" : 
+		[
+			{
+				"name" : "BBQ",
+				"url" : "https://www.bbq.co.kr/menu/menu.asp",
+				"img" : "bbq.png",
+			},
+			{
+				"name" : "교촌치킨",
+				"url" : "http://www.kyochon.com/menu/chicken.asp",
+				"img" : "kyochon.png",
+			},
+			{
+				"name" : "네네치킨",
+				"url" : "http://www.nenechicken.com/subpage/fried.asp?value=21",
+				"img" : "nene.jpeg",
+			},
+			{
+				"name" : "페리카나",
+				"url" : "http://www.pelicana.co.kr/menu/best_menu.html",
+				"img" : "pericana.jpeg",
+			},
+			{
+				"name" : "굽네치킨",
+				"url" : "http://www.goobne.co.kr/menu/menu.htm",
+				"img" : "gupne.jpeg",
+			},
+			{
+				"name" : "둘둘치킨",
+				"url" : "http://www.22chicken.co.kr/kr/goods/goods_feature.asp",
+				"img" : "twotwo.png",
+			},
+			{
+				"name" : "또레오레",
+				"url" : "http://www.toreore.com/menu/menu04.asp",
+				"img" : "ddoreore.png",
+			},
+			{
+				"name" : "멕시카나",
+				"url" : "http://www.mexicana.co.kr/FRONT/menu.asp",
+				"img" : "maxicana.jpeg",
+			},
+			{
+				"name" : "BHC",
+				"url" : "http://www.bhc.co.kr/menu/recommend.asp",
+				"img" : "bhc.jpeg",
+			},
+			{
+				"name" : "보드람치킨",
+				"url" : "http://www.bodram.com/bmenu/bmenu_01.html?type=A",
+				"img" : "bodram.jpeg",
+			},
+			{
+				"name" : "호식이두마리",
+				"url" : "http://9922.co.kr/menu/all.php",
+				"img" : "hosiki.jpeg",
+			}
+			{
+				"name" : "처가집양념통닭",
+				"url" : "http://www.cheogajip.co.kr/menu01.html",
+				"img" : "chugazip.jpeg",
+			},
+			{
+				"name" : "훌랄라",
+				"url" : "http://www.hoolala.co.kr/menu/default.aspx",
+				"img" : "hoolala.jpeg",
+			},
+			{
+				"name" : "치킨매니아",
+				"url" : "http://www.cknia.com/ck_menu_info/menu01.asp",
+				"img" : "mania.jpeg",
+			},
+			{
+				"name" : "핫썬치킨",
+				"url" : "http://www.hotsun.co.kr/page.asp?pageid=product1&pagenum=020100",
+				"img" : "hotsun.jpeg",
+			},
+			{
+				"name" : "썬더치킨",
+				"url" : "http://www.mythunder.co.kr/menu.html",
+				"img" : "thunder.png",
+			},
+			{
+				"name" : "본스치킨",
+				"url" : "http://www.vons.or.kr/menu/sunsal.html",
+				"img" : "vons.png",
+			},
+			{
+				"name" : "부어치킨",
+				"url" : "http://www.boor.co.kr/sub02/sub01.php",
+				"img" : "boor.png",
+			},
+			{
+				"name" : "사바사바",
+				"url" : "http://www.sabasaba.co.kr/new2/html/menu_1.htm",
+				"img" : "sabasaba.png",
+			},
+			{
+				"name" : "투마리치킨",
+				"url" : "http://www.twomari.co.kr/new/sub2_1.php",
+				"img" : "twomari.jpeg",
+			}
+		]
+	}
+}
