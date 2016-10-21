@@ -1,0 +1,63 @@
+{
+	"restaurantinfo" : 
+	{
+	"local" : 
+		[
+			{
+				"name" : "VIPS",
+				"url" : "https://www.ivips.co.kr:7002/steak/steakMain.asp",
+				"img" : "vips.png",
+			},
+			{
+				"name" : "애슐리",
+				"url" : "http://www.myashley.co.kr/Menu/SaladBar/Menu01.aspx",
+				"img" : "ashley.jpeg",
+			},
+			{
+				"name" : "아웃백",
+				"url" : "http://www.outback.co.kr/OtherMenu/Default.aspx",
+				"img" : "outback.jpeg",
+			},
+			{
+				"name" : "계절밥상",
+				"url" : "https://www.seasonstable.co.kr:7017/menu/new.asp",
+				"img" : "bobsang.jpeg",
+			},
+			{
+				"name" : "자연별곡",
+				"url" : "http://www.naturekitchen.co.kr/",
+				"img" : "nature.png",
+			},
+			{
+				"name" : "매드포갈릭",
+				"url" : "http://www.madforgarlic.com/menu",
+				"img" : "madfor.jpeg",
+			},
+			{
+				"name" : "서가앤쿡",
+				"url" : "http://www.seogaandcook.com/Menu/menuList2014.asp?cate1=HOME&cate2=HANSANG",
+				"img" : "seoga.png",
+			},
+			{
+				"name" : "TGI프라이데이스",
+				"url" : "http://www.tgif.co.kr/food/food.asp",
+				"img" : "bodram.jpeg",
+			},
+			{
+				"name" : "토다이",
+				"url" : "http://www.todaikorea.com/new/menu/menu.asp",
+				"img" : "todai.png",
+			},
+			{
+				"name" : "세븐스프링스",
+				"url" : "http://www.sevensprings.co.kr/menu/green_table.asp",
+				"img" : "seven.png",
+			},
+			{
+				"name" : "불고기브라더스",
+				"url" : "http://bulgogibros.com/promotional/",
+				"img" : "bulgogi.jpeg",
+			}
+		]
+	}
+}
