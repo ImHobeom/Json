@@ -7,7 +7,8 @@
       "name": "Taylor Fan Forever",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/taylor_fan_forever_profile.jpg"
     },
-    "duration": 210
+    "duration": 210,
+    "Number_of_likes": 0
   },
   {
     "title": "Rihanna Work featuring Drake",
@@ -17,7 +18,8 @@
       "name": "Rihanna's Channel",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/rihanna_profile.jpg"
     },
-    "duration": 189
+    "duration": 189,
+    "Number_of_likes": 0
   },
   {
     "title": "Beyonce - Put A Ring On It",
@@ -27,7 +29,8 @@
       "name": "Taylor Fan Forever",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/beyonce_profile.jpg"
     },
-    "duration": 410
+    "duration": 410,
+    "number_of_likes": 0
   },
   {
     "title": "Kanye Interrupts Taylor Embarrassing Video",
@@ -37,7 +40,8 @@
       "name": "KanyeLover",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/kanye_profile2.jpeg"
     },
-    "duration": 80
+    "duration": 80,
+    "number_of_likes": 0
   },
   {
     "title": "Rebecca Black - Friday",
@@ -47,7 +51,8 @@
       "name": "Rebecca Black's Awesome",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/rebecca_black_profile.jpeg"
     },
-    "duration": 232
+    "duration": 232,
+    "number_of_likes": 0
   },
   {
     "title": "John Legend - All Of Me",
@@ -57,6 +62,7 @@
       "name": "JohnTheLegend",
       "profile_image_name": "https:\/\/s3-us-west-2.amazonaws.com\/youtubeassets\/john_legend_profile.jpeg"
     },
-    "duration": 301
+    "duration": 301,
+    "number_of_likes": 0
   }
 ]
